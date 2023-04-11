@@ -104,7 +104,7 @@
     flex-direction: column;
 }
 
-.box-layout1 {
+#box {
     background: #EBEF18;
 }
 
@@ -344,7 +344,7 @@ a {
     margin-left: 215px;
 }
 
-.ori-text {
+#ori-text {
     font-family: Amiko;
     font-size: 96px;
     font-weight: 400;
